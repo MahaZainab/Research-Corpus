@@ -13,9 +13,9 @@ This week I’ll read **research articles in the domain of education who have us
 
 | Date       | Day    | Paper | Conference, year | Research Objectives | Methodology | Limitations |
 |------------|--------|-------|--------|---------------------|-------------|-------------|
-| 2025-09-15 | Day 1  | *(paper link/title)* | *(e.g., tutoring / assessment / simulation)* | *(what the paper aims to show)* | *(agents, roles, datasets, metrics)* | *(threats to validity / scope limits)* |
-| 2025-09-16 | Day 2  | *(paper link/title)* |  |  |  |  |
-| 2025-09-17 | Day 3  | *(paper link/title)* |  |  |  |  |
+| 2025-09-15 | Monday  | *(paper link/title)* | *(e.g., tutoring / assessment / simulation)* | *(what the paper aims to show)* | *(agents, roles, datasets, metrics)* | *(threats to validity / scope limits)* |
+| 2025-09-16 | Tuesday  | *(paper link/title)* |  |  |  |  |
+| 2025-09-17 | Th  | *(paper link/title)* |  |  |  |  |
 | 2025-09-18 | Day 4  | *(paper link/title)* |  |  |  |  |
 | 2025-09-19 | Day 5  | *(paper link/title)* |  |  |  |  |
 
