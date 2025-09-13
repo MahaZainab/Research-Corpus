@@ -17,7 +17,7 @@ This week I’ll read **research articles in the domain of education who have us
 | 2025-09-16 | Tuesday  | *(paper link/title)* |  |  |  |  |
 | 2025-09-17 | Wednesday  | *(paper link/title)* |  |  |  |  |
 | 2025-09-18 | Thursday  | *(paper link/title)* |  |  |  |  |
-| 2025-09-19 | Day 5  | *(paper link/title)* |  |  |  |  |
+| 2025-09-19 | Friday  | *(paper link/title)* |  |  |  |  |
 
 
 ---
