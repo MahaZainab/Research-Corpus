@@ -13,7 +13,7 @@ This week I’ll read **research articles in the domain of education who have us
 
 | Date       | Day    | Paper | Conference, year | Research Objectives | Methodology | Limitations |
 |------------|--------|-------|--------|---------------------|-------------|-------------|
-| 2025-09-15 | Monday  | *(paper link/title)* | *(e.g., tutoring / assessment / simulation)* | *(what the paper aims to show)* | *(agents, roles, datasets, metrics)* | *(threats to validity / scope limits)* |
+| 2025-09-15 | Monday  | *(paper lin/title)* | *Book"Enhancing Educational Practices: Strategies for Assessing and Improving Learning Outcomes" / 2024)* | *(what the paper aims to show)* | *(agents, roles, datasets, metrics)* | *(threats to validity / scope limits)* |
 | 2025-09-16 | Tuesday  | *(paper link/title)* |  |  |  |  |
 | 2025-09-17 | Wednesday  | *(paper link/title)* |  |  |  |  |
 | 2025-09-18 | Thursday  | *(paper link/title)* |  |  |  |  |
