@@ -16,7 +16,7 @@ This week I’ll read **one paper per day** from
 | 2025-09-16 | Day 2  | *(paper link/title)* |  |  |  |  |
 | 2025-09-17 | Day 3  | *(paper link/title)* |  |  |  |  |
 | 2025-09-18 | Day 4  | *(paper link/title)* |  |  |  |  |
-| 2025-09-17 | Day 5  | *(paper link/title)* |  |  |  |  |
+| 2025-09-19 | Day 5  | *(paper link/title)* |  |  |  |  |
 | 2025-09-18 | Day 6  | *(paper link/title)* |  |  |  |  |
 | 2025-09-19 | Day 7  | *(paper link/title)* |  |  |  |  |
 
