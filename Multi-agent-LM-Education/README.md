@@ -6,8 +6,6 @@ This week I’ll read **research articles in the domain of education who have us
 
 ## 📅 Daily Reading Plan
 
-> Fill in “Domain / Objectives / Methodology / Limitations” as you read.  
-> Replace each **Paper** cell with the specific file (PDF/MD/link) from the folder.
 
 | Date       | Day       | Paper | Conference, year | Research Objectives | Methodology | Limitations |
 |------------|-----------|-------|------------------|---------------------|-------------|-------------|
