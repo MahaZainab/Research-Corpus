@@ -21,15 +21,4 @@ This week I’ll read **one paper per day** from
 
 ---
 
-## 📝 Quick Note Template (copy per row)
 
-**Paper:** <Title + URL>  
-**Domain:** <tutoring / classroom sim / assessment / tools / other>  
-**Research Objectives:**  
--  
-
-**Methodology (agents / data / metrics):**  
--  
-
-**Limitations (and risks):**  
--  
