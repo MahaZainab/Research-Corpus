@@ -1,4 +1,3 @@
-python - <<'PY'
 import os, re, textwrap, requests
 
 OWNER="MahaZainab"
@@ -59,4 +58,3 @@ with open("README.md","w",encoding="utf-8") as f:
     f.write(readme)
 
 print("Updated README.md with papers from GitHub.")
-PY
