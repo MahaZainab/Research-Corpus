@@ -1,7 +1,8 @@
 # Weekly Planner — Multi-Agent LLMs for Education
 
-This week I’ll read **one paper per day** from  
+This week I’ll read **research articles in the domain of education who have used language models(SLMs, LLMs) along with single and multi-agent systems** from  
 [`Research-Corpus/Multi-agent-LM-Education`](https://github.com/MahaZainab/Research-Corpus/tree/main/Multi-agent-LM-Education).
+
 
 ---
 
