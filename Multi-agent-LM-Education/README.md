@@ -11,7 +11,7 @@ This week I’ll read **research articles in the domain of education who have us
 > Fill in “Domain / Objectives / Methodology / Limitations” as you read.  
 > Replace each **Paper** cell with the specific file (PDF/MD/link) from the folder.
 
-| Date       | Day    | Paper | Conference | Research Objectives | Methodology | Limitations |
+| Date       | Day    | Paper | Conference, year | Research Objectives | Methodology | Limitations |
 |------------|--------|-------|--------|---------------------|-------------|-------------|
 | 2025-09-15 | Day 1  | *(paper link/title)* | *(e.g., tutoring / assessment / simulation)* | *(what the paper aims to show)* | *(agents, roles, datasets, metrics)* | *(threats to validity / scope limits)* |
 | 2025-09-16 | Day 2  | *(paper link/title)* |  |  |  |  |
