@@ -2,7 +2,7 @@
 
 This week(15-09-2025) I’ll read **Research articles in the domain of education who have used language models (SLMs, LLMs) along with single and multi-agent systems** from  [`Research-Corpus/Multi-agent-LM-Education`](https://github.com/MahaZainab/Research-Corpus/tree/main/Multi-agent-LM-Education).
 
-In the meeting, we have seen how we can make multiple small language models as teacher  judges
+In the meeting, we have seen how we can make multiple small language models as teacher judges 
 ---
 
 ## 📅 Daily Reading Plan
