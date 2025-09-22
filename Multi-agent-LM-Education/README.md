@@ -27,7 +27,7 @@ Also, see the adaboost algorithm. This is going
 2. What are the methodolgy of instruction tunning.
 3. How SLMs are interacting with each other.
 
-**Measures:** The following measures are defined to answer the above questions.
+**Metric:** The following measures are defined to answer the above questions.
 1. How the achieve 
 
 **My Learnings:**
