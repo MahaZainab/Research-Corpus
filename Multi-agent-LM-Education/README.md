@@ -23,4 +23,4 @@ Also, see the adaboost algorithm. This is going
 **Goal:** The goal of this paper reading is to analyze how the mutilingual instruction tunning has been done performed across multiple agents. Also, what are the limitation of their methodology.
 
 **Questions:** The following questions has been proposed to achieve our goal.
-1. What are the research questions of this 
+1. What are the research questions of this study.
