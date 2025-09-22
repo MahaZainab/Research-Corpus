@@ -30,3 +30,4 @@ Also, see the adaboost algorithm. This is going
 **Measures:** The following measures are defined to answer the above questions.
 1. How the achieve 
 
+**My Learnings:**
