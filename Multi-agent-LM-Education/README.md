@@ -25,4 +25,4 @@ Also, see the adaboost algorithm. This is going
 **Questions:** The following questions has been proposed to achieve our goal.
 1. What are the research questions of this study.
 2. What are the methodolgy of instruction tunning.
-3. How 
+3. How SLMs are interacting 
