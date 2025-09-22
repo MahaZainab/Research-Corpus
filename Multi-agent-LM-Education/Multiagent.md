@@ -70,9 +70,3 @@ The goal of this paper reading is to analyze how **multilingual instruction tuni
 - Heavy reliance on **LLM scorers** for evaluation and reflection introduces potential biases.  
 ---
 
-## Critical Reflection
-- **Strengths:** Innovative use of multi-agent collaboration, strong experimental validation, scalable pipeline.  
-- **Weaknesses:** Heavy reliance on LLM-based scoring; risks of evaluator bias.  
-- **Future Work:** Extending methodology to other multilingual tasks (e.g., natural language), improving balance for underrepresented programming languages.
-
----
