@@ -44,10 +44,17 @@ The goal of this paper reading is to analyze how **multilingual instruction tuni
   - **Ablation Studies:** Effect of removing Ds2, Ds3, or Ds4.  
   - **Scaling Analysis:** Effect of dataset size on performance.  
 
-- **Qualitative Metrics:**  
-  - LLM-based rubric scoring for Q&A quality.  
-  - Analysis of cross-lingual transfer effectiveness.  
-
+- **Qualitative Metrics (Detailed):**  
+  The reflection framework introduces qualitative evaluation based on an **LLM-based rubric**, applied to every generated Q&A pair:  
+  - **Q&A Consistency:** logical match between question and answer.  
+  - **Q&A Relevance:** relevance to programming/computer science.  
+  - **Q&A Difficulty:** ensures problems are not trivial.  
+  - **Code Existence:** verifies code is included when necessary.  
+  - **Code Correctness:** checks syntax, logic, variable naming, indentation, and best practices.  
+  - **Code Clarity:** evaluates readability and structure.  
+  - **Code Comments:** examines the presence and usefulness of comments.  
+  - **Easy to Learn:** determines educational value for beginners.  
+  - **Total Score:** overall 1–5 rating, used to filter or refine samples.  
 ---
 
 ## Findings
