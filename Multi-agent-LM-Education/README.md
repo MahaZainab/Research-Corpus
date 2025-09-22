@@ -31,4 +31,4 @@ Also, see the adaboost algorithm. This is going
 1. How the achieve 
 
 **My Learnings:**
-Most code LLMs fine tunned on high
+Most code LLMs fine tunned on high-quality
