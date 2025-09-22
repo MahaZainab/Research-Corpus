@@ -64,11 +64,10 @@ The goal of this paper reading is to analyze how **multilingual instruction tuni
 
 ---
 
-## Limitations
-- Scope restricted to **multilingual code tasks** only.  
-- Uneven **language transfer**: well-represented languages benefit more than low-resource ones.  
-- Potential **LLM scorer bias** in filtering and reflection stages.
 
+## Limitations
+- Dataset leans toward **high-resource languages** (Python, Java, C++), with weaker transfer to underrepresented languages.  
+- Heavy reliance on **LLM scorers** for evaluation and reflection introduces potential biases.  
 ---
 
 ## Critical Reflection
