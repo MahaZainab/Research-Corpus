@@ -32,4 +32,5 @@ Also, see the adaboost algorithm. This is going
 
 **My Learnings:**
 Most code LLMs fine tunned on high-quality instruction dataset and in this way they are capable of wide range of code related tasks. In this paper, the purpose is to knowledge transfer among different languages.
-They have created a framework which will do a collaboration between multiple agents so that they can generate
+They have created a framework which will do a collaboration between multiple agents so that they can generate data to fine tune LLM.
+They have break down 
