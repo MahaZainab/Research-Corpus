@@ -18,3 +18,5 @@ Also, see the adaboost algorithm. This is going
 | 2025-09-19 | Friday    | [Performance of single-agent and multi-agent language models in Spanish language medical competency exams](https://github.com/MahaZainab/Research-Corpus/blob/main/Multi-agent-LM-Education/performance%20of%20single%20agent%20and%20multi-agent%20language%20models%20in%20spanish.pdf) | *BMC Medical Education, 2025*  |  |  |  |
 
 ---
+
+### Multi-Agent Collaboration for Multilingual Code Instruction Tuning
