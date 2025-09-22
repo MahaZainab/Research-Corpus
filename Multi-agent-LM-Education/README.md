@@ -31,3 +31,4 @@ Also, see the adaboost algorithm. This is going
 1. How the achieve 
 
 **My Learnings:**
+Most 
