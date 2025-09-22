@@ -1,68 +1,72 @@
-# Literature Review — Multi-Agent Collaboration for Multilingual Code Instruction Tuning
+# Literature Review: Multi-Agent Collaboration for Multilingual Code Instruction Tuning
 
 ## Goal
-The goal of this paper reading is to analyze how **multilingual instruction tuning** is achieved through **multi-agent collaboration**, and to identify the **strengths and limitations** of the proposed methodology.
+The goal of this paper reading is to analyze how **multilingual instruction tuning** is performed through **multi-agent collaboration** and to identify the **strengths and limitations** of the proposed methodology.
 
 ---
 
-## Questions & Notes
+## Questions and Answers
 
-### 1. Research Questions
-- What specific **research problem(s)** does the paper address?  
-  > _Your notes here_  
-- How does the paper position itself compared to prior work in **multilingual code instruction tuning**?  
-  > _Your notes here_
-
----
-
-### 2. Methodology of Instruction Tuning
-- What are the main **steps in their instruction-tuning pipeline** (e.g., dataset construction, multi-agent generation, filtering, reflection)?  
-  > _Your notes here_  
-- How does the **multi-agent setup differ** from single-agent or baseline methods?  
-  > _Your notes here_
+### 1. What are the research questions of this study?
+- How can knowledge in **high-resource programming languages** be effectively transferred to **low-resource languages** through instruction tuning?  
+- Can **multi-agent collaboration** generate **higher-quality multilingual instruction data** compared to single-agent pipelines?  
+- How does the proposed model (**Qwen2.5-xCoder**) perform relative to **open-source** and **proprietary models** across multilingual code benchmarks?
 
 ---
 
-### 3. Interaction of Specialized Language Models (SLMs)
-- How do the SLMs **communicate and collaborate** (centralized vs. parallel discussions)?  
-  > _Your notes here_  
-- What roles do **memory** and **reflection** play in enabling cross-lingual knowledge transfer?  
-  > _Your notes here_
+### 2. What is the methodology of instruction tuning?
+- **Seed Data (Ds1 & Ds2):** Constructed from GitHub code snippets. Two paths: *instruction-from-code* and *response-from-code*, filtered with an LLM scorer.  
+- **Multi-Agent Data Generation (Ds3):**  
+  - Specialized agents for different languages.  
+  - Agents maintain **memory** of past samples and avoid duplication.  
+  - **Reflection mechanism** evaluates Q&A based on consistency, difficulty, correctness, clarity, comments, and educational value.  
+  - **Cross-lingual discussion**:  
+    - *Centralized*: one main agent coordinates auxiliaries.  
+    - *Parallel*: all agents collaborate equally.  
+- **Preference Optimization (Ds4):** Multiple candidate solutions are generated, tested, and filtered for **Direct Preference Optimization (DPO)** training.  
+- **Training:** Supervised Fine-Tuning (SFT) on Ds1 ∪ Ds2 ∪ Ds3 and DPO on Ds4.
 
 ---
 
-### 4. Evaluation and Results
-- What metrics and benchmarks are used to measure effectiveness?  
-  > _Your notes here_  
-- How do the proposed models compare with **open-source and proprietary baselines**?  
-  > _Your notes here_
+### 3. How are the SLMs (agents) interacting with each other?
+- **Centralized Communication:** A main agent (A1) coordinates; auxiliaries (A2 … Ad) provide variations.  
+- **Parallel Communication:** All agents contribute equally when generating new samples.  
+- **Memory & Reflection:**  
+  - Memory prevents duplication and encourages novelty.  
+  - Reflection uses a rubric (Q&A consistency, code correctness, clarity, comments, difficulty, educational value) to critique and refine outputs.  
 
 ---
 
-## Metrics
+### 4. What are the metrics used to evaluate?
+- **Quantitative Metrics:**  
+  - **Pass@k (esp. Pass@1)** for code correctness.  
+  - **Benchmarks:** HumanEval (Python), MBPP (Python beginner problems), MultiPL-E (multilingual HumanEval).  
+  - **Ablation Studies:** Effect of removing Ds2, Ds3, or Ds4.  
+  - **Scaling Analysis:** Effect of dataset size on performance.  
 
-### Quantitative Measures
-- **Pass@k (esp. Pass@1)** on benchmarks: HumanEval, MBPP, MultiPL-E.  
-- **Ablation studies**: role of Ds₁–Ds₄.  
-- **Scaling experiments**: performance by dataset size.
+- **Qualitative Metrics:**  
+  - LLM-based rubric scoring for Q&A quality.  
+  - Analysis of cross-lingual transfer effectiveness.  
 
-### Qualitative Measures
-- **Reflection analysis**: quality, clarity, correctness, novelty of generated samples.  
-- **Cross-lingual transfer effectiveness**: improvements in low-resource programming languages.
+---
 
-### Limitations
+## Findings
+- **Qwen2.5-xCoder**, trained on multi-agent–generated data, outperforms base coders and matches or surpasses larger open-source/proprietary models on multilingual tasks.  
+- **Ds3 (multi-agent data)** is crucial; removing it significantly reduces performance.  
+- Performance improves steadily with dataset size; strong gains appear even at ~50K samples.  
+
+---
+
+## Limitations
 - Scope restricted to **multilingual code tasks** only.  
-- Possible **language imbalance** (better for high-resource languages).  
-- Risks of **LLM scorer bias** during filtering and reflection.
+- Uneven **language transfer**: well-represented languages benefit more than low-resource ones.  
+- Potential **LLM scorer bias** in filtering and reflection stages.
 
 ---
 
-## Critical Reflection (Your Own Analysis)
-- Strengths:  
-  > _Your notes here_  
+## Critical Reflection
+- **Strengths:** Innovative use of multi-agent collaboration, strong experimental validation, scalable pipeline.  
+- **Weaknesses:** Heavy reliance on LLM-based scoring; risks of evaluator bias.  
+- **Future Work:** Extending methodology to other multilingual tasks (e.g., natural language), improving balance for underrepresented programming languages.
 
-- Weaknesses / Gaps:  
-  > _Your notes here_  
-
-- Future Research Opportunities:  
-  > _Your notes here_  
+---
