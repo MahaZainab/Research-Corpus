@@ -20,7 +20,7 @@ Also, see the adaboost algorithm. This is going
 | 22-09-2025 | Tuesday | | | |
 | 22-09-2025 | Wednesday | | | |
 | 22-09-2025 | Thursday | | | |
-| 22-09-2025 | day | | | |
+| 22-09-2025 | Friday | | | |
 
 ---
 
