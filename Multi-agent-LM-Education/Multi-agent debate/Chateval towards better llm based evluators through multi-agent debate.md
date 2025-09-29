@@ -25,4 +25,4 @@ After configuring the agents, then group debate is started. Where each agent aut
 
 ### 2. Diverse Role Specification:
 
-All agents share a common prompt template
+All agents share a common prompt template, they substitute
