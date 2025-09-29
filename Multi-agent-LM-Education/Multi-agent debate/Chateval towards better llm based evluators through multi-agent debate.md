@@ -20,4 +20,4 @@ There are three main components:
 3. communication strategy
 
 ### 1. Debator Agents:
-There are multiple LLMs as agents and each one of them is asked to generate their response from the given prompt. Responses from the other agents are served as  
+There are multiple LLMs as agents and each one of them is asked to generate their response from the given prompt. Responses from the other agents are served as a chat history. 
