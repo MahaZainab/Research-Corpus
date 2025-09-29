@@ -15,4 +15,5 @@ ChatEval is a system that enable each agent to empliy varied communication strat
 ## Methodology:
 There are three main components:
 
-1.debator agents 
+1.debator agents
+2. diverse 
