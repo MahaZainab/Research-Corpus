@@ -20,3 +20,4 @@ There are three main components:
 3. communication strategy
 
 ### 1. Debator Agents:
+There are multiple LLMs as agents
