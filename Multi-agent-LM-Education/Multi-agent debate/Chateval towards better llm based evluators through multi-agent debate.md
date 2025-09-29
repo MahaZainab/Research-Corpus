@@ -13,4 +13,4 @@ ChatEval is a system that enable each agent to empliy varied communication strat
 2. Various communication strategies and demonstrate the necessity of diverse role prompts in multi-agent debate scenarios.
 
 ## Methodology:
-There are three main 
+There are three main components
