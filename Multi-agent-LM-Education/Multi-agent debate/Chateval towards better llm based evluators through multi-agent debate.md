@@ -7,3 +7,5 @@ Also, remember that n-grams, rouge, BLEU, and METEOR show a relatively low corre
 Studies have shown that multiple LLM can further improve one another through debate and cooperation. By incorporating multiple LLMS into integrated group and designing specific interaction mechanisms, different llms can engage in the proposing and delibrating unique responses and thought processes accross several rounds.
 
 ChatEval is a system that enable each agent to empliy varied communication strategoes in collaborative discussion, working towards formulating final judgements. Every agent within chateval is endowed a unique persona. This deliberate design ensure that each agent focus on distinct perspective and brings specific expertise to the table.
+
+Main o
