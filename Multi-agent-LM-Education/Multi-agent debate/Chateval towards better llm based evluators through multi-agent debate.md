@@ -8,4 +8,4 @@ Studies have shown that multiple LLM can further improve one another through deb
 
 ChatEval is a system that enable each agent to empliy varied communication strategoes in collaborative discussion, working towards formulating final judgements. Every agent within chateval is endowed a unique persona. This deliberate design ensure that each agent focus on distinct perspective and brings specific expertise to the table.
 
-Main contribution of this research is proposing multi-agent based framework 
+Main contribution of this research is proposing multi-agent based framework called 
