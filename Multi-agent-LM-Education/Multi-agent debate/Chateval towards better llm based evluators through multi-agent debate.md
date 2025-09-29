@@ -23,4 +23,6 @@ There are three main components:
 There are multiple LLMs as agents and each one of them is asked to generate their response from the given prompt. Responses from the other agents are served as a chat history which will be replaced in the prompt template.
 After configuring the agents, then group debate is started. Where each agent autonomously receives responses from the others and in turn delievers its own responses to them.  
 
-### 2. Diverse Role 
+### 2. Diverse Role Specification:
+
+All agents share a common 
