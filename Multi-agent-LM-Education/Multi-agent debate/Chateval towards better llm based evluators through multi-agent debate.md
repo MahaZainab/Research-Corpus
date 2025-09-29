@@ -3,4 +3,4 @@ In machine learining, we were using using accuracy, f1 scores to evaluate our re
 
 In multiagent based approach a group of LLMs synergize with an array of intelligent counter parts.
 Chateval is a multiagent refree team to autonomusly discuss and evaluate the the quality of generated responses from different models on open ended.
-Also, remember that 
+Also, remember that n-grams, rouge, BLEU, and METEOR show a relatively low correlation with human hudgements particularly, in the context of tasks involving open-ended generation or requiring domain-specific expertise.
