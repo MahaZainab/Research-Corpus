@@ -10,4 +10,4 @@ ChatEval is a system that enable each agent to empliy varied communication strat
 
 1. Main contribution of this research is proposing multi-agent based framework called chateval that aligns better with human preferences compared with single agent based approach.
 
-2. Various communication strategies and demonstrate the necessity of diverse role prompt
+2. Various communication strategies and demonstrate the necessity of diverse role prompts in multi-agent debate
