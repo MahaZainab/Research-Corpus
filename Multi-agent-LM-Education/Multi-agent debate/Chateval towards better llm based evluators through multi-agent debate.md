@@ -1,1 +1,1 @@
-# Chateval: Towards better LLM-based
+# Chateval: Towards better LLM-based evaluators
