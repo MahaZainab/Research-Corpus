@@ -17,4 +17,4 @@ There are three main components:
 
 1.debator agents
 2. diverse role specification
-3. communication  
+3. communication strategy 
