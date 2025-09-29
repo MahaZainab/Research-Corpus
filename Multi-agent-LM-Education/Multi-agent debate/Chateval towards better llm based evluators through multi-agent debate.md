@@ -6,4 +6,4 @@ Chateval is a multiagent refree team to autonomusly discuss and evaluate the the
 Also, remember that n-grams, rouge, BLEU, and METEOR show a relatively low correlation with human hudgements particularly, in the context of tasks involving open-ended generation or requiring domain-specific expertise.
 Studies have shown that multiple LLM can further improve one another through debate and cooperation. By incorporating multiple LLMS into integrated group and designing specific interaction mechanisms, different llms can engage in the proposing and delibrating unique responses and thought processes accross several rounds.
 
-ChatEval is a system that enable each agent to empliy varied communication strategoes in collaborative discussion, working towards formulating final judgements.
+ChatEval is a system that enable each agent to empliy varied communication strategoes in collaborative discussion, working towards formulating final judgements. Every agent within chateval is endowed a unique persona.
