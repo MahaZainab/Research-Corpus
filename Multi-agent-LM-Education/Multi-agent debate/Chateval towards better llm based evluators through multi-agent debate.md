@@ -1,2 +1,2 @@
 # Chateval: Towards better LLM-based evaluators through multi agent debate
-In machine learining, we were using using accuracy, f1 scores to evaluate our results, however, in large language models, where we do text evaluation, we are using LLM's potential to evaluate our results. Single-agents are used to evluate the response. However, there is a gap between human evaluation quality and current LLM judge's 
+In machine learining, we were using using accuracy, f1 scores to evaluate our results, however, in large language models, where we do text evaluation, we are using LLM's potential to evaluate our results. Single-agents are used to evluate the response. However, there is a gap between human evaluation quality and current LLM judge's effectiveness.
