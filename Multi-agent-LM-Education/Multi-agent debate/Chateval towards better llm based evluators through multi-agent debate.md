@@ -25,4 +25,4 @@ After configuring the agents, then group debate is started. Where each agent aut
 
 ### 2. Diverse Role Specification:
 
-All agents share a common prompt template, they substitute the role description slot with diverse role prompt.
+All agents share a common prompt template, they substitute the role description slot with diverse role prompt. Which will specify distinct personalities
