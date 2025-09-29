@@ -21,4 +21,4 @@ There are three main components:
 
 ### 1. Debator Agents:
 There are multiple LLMs as agents and each one of them is asked to generate their response from the given prompt. Responses from the other agents are served as a chat history which will be replaced in the prompt template.
-After configuring the agents 
+After configuring the agents, then group debate is started. 
