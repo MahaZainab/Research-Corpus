@@ -28,4 +28,4 @@ After configuring the agents, then group debate is started. Where each agent aut
 All agents share a common prompt template, they substitute the role description slot with diverse role prompt. Which will specify distinct personalities for different agents.
 
 ### Communication strategy:
-How to maintain the chat history
+How to maintain the chat history was a challenge.
