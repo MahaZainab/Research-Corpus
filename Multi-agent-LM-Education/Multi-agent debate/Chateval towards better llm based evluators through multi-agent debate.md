@@ -47,4 +47,4 @@ OpenAI' GPT family models are used.(which is homogeneous)
 In my research, we will use hetrogeneous group of models.
 
 #### Benchmarks:
-1. Open-ended question answer
+1. Open-ended question answer: for each question, they direct three annotators
