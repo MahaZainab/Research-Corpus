@@ -29,3 +29,4 @@ All agents share a common prompt template, they substitute the role description 
 
 ### Communication strategy:
 How to maintain the chat history was a challenge. Three different communication strategies are used.
+1. One by one: 
