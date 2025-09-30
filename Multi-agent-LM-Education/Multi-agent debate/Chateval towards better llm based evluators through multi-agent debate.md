@@ -51,4 +51,4 @@ In my research, we will use hetrogeneous group of models.
 Baseline: Single-agent: we directly query the LLM to generate the response towards the evaluation.
 Multi-agent: several agents discuss towards evaluation.
 There are 2 agents and two turns.
-To evaluate the results two type  of 
+To evaluate the results two type  of measures are used
