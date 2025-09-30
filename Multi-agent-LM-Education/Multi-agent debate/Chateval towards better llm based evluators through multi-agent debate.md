@@ -44,4 +44,4 @@ There are two methods to reach to a consensus.  One is to ask the debator agent 
 They evaluate the chateval on two benchmarks, faireval and topical chat, which are open ended question answer and dailogue response generation.
 
 OpenAI' GPT family models are used.(which is homogeneous)
-In my research, we will use
+In my research, we will use hetrogeneous group of models
