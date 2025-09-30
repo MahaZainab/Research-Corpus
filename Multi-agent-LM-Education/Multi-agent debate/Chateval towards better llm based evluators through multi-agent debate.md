@@ -30,4 +30,4 @@ All agents share a common prompt template, they substitute the role description 
 ### Communication strategy:
 How to maintain the chat history was a challenge. Three different communication strategies are used.
 #### 1. One by one: 
-During each round of debate, the ddebater agents take turns in a set of order to generate their responses.
+During each round of debate, the ddebater agents take turns in a set of order to generate their responses on the current observations.
