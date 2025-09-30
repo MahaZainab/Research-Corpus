@@ -41,4 +41,6 @@ There are two methods to reach to a consensus.  One is to ask the debator agent 
 
 ### 4. Experiments:
 
-They evaluate the chateval on two benchmarks, faireval and topical chat, which are open ended question answer and dailogue response generation
+They evaluate the chateval on two benchmarks, faireval and topical chat, which are open ended question answer and dailogue response generation.
+
+OpenAI' GPT family models are used.
