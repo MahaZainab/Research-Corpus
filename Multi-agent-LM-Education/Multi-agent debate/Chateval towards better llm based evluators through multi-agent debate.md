@@ -38,3 +38,5 @@ Each debater agents are prompted to asynchronously generate responses in each it
 Along with simulataneous-talk an additional LLM work as a summarizer. At the end of each iteration of the debate, we prompt this extra LLM to summarize the messages conveyed so far and concatenate the summarization into all debator agent's chat history.
 
 There are two methods to reach to a consensus.  One is to ask the debator agent to reach to a consensus at the end of the debate. The otherone is to get the final results from majority of vote among various annotators.
+
+#### 4. 
