@@ -50,3 +50,4 @@ In my research, we will use hetrogeneous group of models.
 1. Open-ended question answer: for each question, they direct three annotators to evaluate the replies given by vicuna 13B and chatgpt model through the rules and then extract the results based on majority of voting.
 Baseline: Single-agent: we directly query the LLM to generate the response towards the evaluation.
 Multi-agent: several agents discuss towards evaluation.
+There are 2 agents and two turns.
