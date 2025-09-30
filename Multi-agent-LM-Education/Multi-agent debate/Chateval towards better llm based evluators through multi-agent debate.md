@@ -35,4 +35,4 @@ During each round of debate, the ddebater agents take turns in a set of order to
 Each debater agents are prompted to asynchronously generate responses in each iteration of the discussion to nullify the impact of speaking order.
 
 #### 3. Simultaneous talk with summarizer:
-Along with simulataneous-talk an additional LLM work as a summarizer. At the end of each iteration of the debate, we prompt this extra LLM to summarize the messages conveyed so far 
+Along with simulataneous-talk an additional LLM work as a summarizer. At the end of each iteration of the debate, we prompt this extra LLM to summarize the messages conveyed so far and concatenate the summarization into all debator agent's chat history.
