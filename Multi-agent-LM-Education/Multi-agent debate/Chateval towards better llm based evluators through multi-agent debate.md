@@ -33,3 +33,5 @@ How to maintain the chat history was a challenge. Three different communication 
 During each round of debate, the ddebater agents take turns in a set of order to generate their responses on the current observation. When it's time for a debator agent to respond, they directly concatenate what previous agents have said into their  history slot.
 #### 2. Simultaneous talk
 Each debater agents are prompted to asynchronously generate responses in each iteration of the discussion to nullify the impact of speaking order.
+
+#### 3. 
