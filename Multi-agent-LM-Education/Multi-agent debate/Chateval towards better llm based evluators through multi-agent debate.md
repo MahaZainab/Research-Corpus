@@ -31,4 +31,5 @@ All agents share a common prompt template, they substitute the role description 
 How to maintain the chat history was a challenge. Three different communication strategies are used.
 #### 1. One by one: 
 During each round of debate, the ddebater agents take turns in a set of order to generate their responses on the current observation. When it's time for a debator agent to respond, they directly concatenate what previous agents have said into their  history slot.
-#### 2. 
+#### 2. Simultaneous talk
+Each debater agents are prompted to asynchronously generate responses in each iteration of the discussion to nullify the impact of speaking order.
