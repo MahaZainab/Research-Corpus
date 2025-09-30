@@ -52,4 +52,4 @@ Baseline: Single-agent: we directly query the LLM to generate the response towar
 Multi-agent: several agents discuss towards evaluation.
 There are 2 agents and two turns.
 To evaluate the results two type  of measures are used:
-1. Accuracy, which is correctly classified instances out of total 
+1. Accuracy, which is correctly classified instances out of total instances.
