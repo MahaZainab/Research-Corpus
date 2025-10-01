@@ -1,1 +1,1 @@
-# Theory of Mind for Multi-Agent Collaboration via Large Language Models.
+# Theory of Mind for Multi-Agent Collaboration via Large Language Models
