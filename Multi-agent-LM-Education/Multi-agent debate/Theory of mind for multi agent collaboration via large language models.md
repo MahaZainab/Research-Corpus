@@ -1,1 +1,1 @@
-# Theory of Mind for Multi-Agent Collab
+# Theory of Mind for Multi-Agent Collaboration 
